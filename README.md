@@ -22,7 +22,7 @@ I’m a accouting profession based in Singapore with a focus on automating work 
 
 - 🔭 I’m passionate about building AI models and automating repetitive work processes.
 - 🌱 I’m constantly looking to learn new technologies, especially around AI and automation.
-- 💬 Let’s connect if you’re interested in discussing AI, automation, or how to make workflows smarter!
+- 💬 Where i learn to code https://www.w3schools.com/ or https://www.kaggle.com/
 - 📫 Feel free to reach out to me via [email](mailto:menber3@hotmail.com) or [LinkedIn](https://www.linkedin.com/in/sebastian-ng-514a89374/).
 - ⚡ Fun fact: I love experimenting with new ways to optimize work, whether it’s through coding or creative problem-solving!
 
