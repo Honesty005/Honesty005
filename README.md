@@ -46,6 +46,11 @@ I’m a accouting profession based in Singapore with a focus on automating work 
 - **Description**: Predicting the probability of survival based on train data set
 - https://github.com/Honesty005/titanic-machine-learning
 
+### [DecisionTree_iris_dataset](#)
+**Tech Stack**: Python, Pandas, Kaggle
+- **Description**: This project was created as a learning exercise to understand decision tree classifer
+- https://github.com/Honesty005/DecisionTree_iris_dataset
+
 ## 🎓 Achievements & Certifications
 - Open to participating in hackathons and collaborative challenges in the future
 
