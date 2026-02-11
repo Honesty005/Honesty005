@@ -50,6 +50,12 @@ I’m a accouting profession based in Singapore with a focus on automating work 
 **Tech Stack**: Python, Pandas, Kaggle
 - **Description**: This project was created as a learning exercise to understand decision tree classifer
 - https://github.com/Honesty005/DecisionTree_iris_dataset
+- https://www.kaggle.com/code/sebastianngjingpei/case-study-credit-evaluation
+
+- ### [Case-Study-Credit-Evaluation](#)
+**Tech Stack**: Python, Pandas, Kaggle
+- **Description**: This project was created as a learning exercise to understand clustering analysis
+- https://github.com/Honesty005/Case-Study-Credit-Evaluation
 
 ## 🎓 Achievements & Certifications
 - Open to participating in hackathons and collaborative challenges in the future
